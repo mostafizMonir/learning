@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Auth/.vs/Auth/v17
+/Auth/obj
+/Auth/bin/Debug/net8.0
+/Auth/Auth.csproj.user
+/Auth/.vs/Auth/FileContentIndex
